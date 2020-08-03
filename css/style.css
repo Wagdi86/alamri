@@ -1,0 +1,57 @@
+*{
+  padding: 0;
+  margin: 0;
+  border: none;
+  outline:0;
+
+
+}
+body{
+  background-color: #05668D;
+  font-family: 'Sansita', sans-serif;
+
+
+}
+#container{
+  max-width: 1240px;
+  height: auto;
+  margin:0 auto;
+  background-color: #00A896;
+  text-align: center;
+}
+#l11{
+  line-height: 30px;
+
+}
+p{
+  padding: 20px;
+  color: white;
+  text-align: left;
+}
+h1,h2{
+  padding-top: 20px;
+  color: white
+}
+#wrhitehier{
+  background-color: #F0F3BD;
+  padding:5px;
+
+}
+.clickme{
+  color: white;
+  background-color: orange;
+  padding: 10px;
+  border-radius: 20px;
+  width: 100px;
+
+}
+.em{
+  width: 300px;
+  padding:10px;
+  border-radius: 20px
+}
+.te{
+  width: 300px;
+  padding:10px;
+  border-radius: 20px
+}
