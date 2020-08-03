@@ -30,7 +30,8 @@ p{
 }
 h1,h2{
   padding-top: 20px;
-  color: white
+  color: white;
+  text-align: center;
 }
 #wrhitehier{
   background-color: #F0F3BD;
