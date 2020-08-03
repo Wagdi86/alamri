@@ -14,7 +14,7 @@ body{
 }
 #container{
   max-width: 1240px;
-  height: auto;
+  height: 1000px;
   margin:0 auto;
   background-color: #00A896;
   text-align: center;
@@ -35,6 +35,8 @@ h1,h2{
 #wrhitehier{
   background-color: #F0F3BD;
   padding:5px;
+  height: 460px;
+  padding-top: 80px
 
 }
 .clickme{
@@ -43,6 +45,7 @@ h1,h2{
   padding: 10px;
   border-radius: 20px;
   width: 100px;
+
 
 }
 .em{
